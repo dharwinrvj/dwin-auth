@@ -1,4 +1,4 @@
-# oauth-app
+# dwin-auth
 ## Authenticator App using Auth0 Service 
 ## Live Demo: https://dwin-auth.herokuapp.com
 
