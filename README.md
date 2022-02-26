@@ -1,6 +1,6 @@
 # oauth-app
-## Authorization and Authentication by Auth0 Service using NodeJs
-## Live Demo: https://dharwin-oauth-app.herokuapp.com
+## Authenticator App using Auth0 Service 
+## Live Demo: https://dwin-auth.herokuapp.com
 
 <img src="demo_images/0.png">
 

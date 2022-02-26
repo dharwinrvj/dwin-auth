@@ -19,7 +19,7 @@ app.use(
     authRequired: false,
     auth0Logout: true,
     issuerBaseURL: "https://dharwinruppa1422.us.auth0.com",
-    baseURL: "http://dharwin-oauth-app.herokuapp.com",
+    baseURL: "http://dwin-auth.herokuapp.com",
     clientID: "3M0jctyQxfIlLUDeEM8sK7EHELNMRwLn",
     secret: "zabcdefghijklmnopqrstuvwxyzabcdefghfsdfkdsfjoi",
   })
